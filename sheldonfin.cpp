@@ -273,7 +273,7 @@ int main(){
 		}              
 	}
 //bot position tracking
-	int g=0;
+/*	int g=0;
 	Mat feed1;
 	while(1){
 		cap>>feed;
@@ -348,7 +348,7 @@ int main(){
             sendCommand("l");
             g++;
  		}
-	}
+	}*/
 }
 
 

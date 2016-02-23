@@ -264,7 +264,6 @@ int main(){
 	}
 	cout<<"\n"<<max;
 //getting cordinates of final expresiions
-/*
 	for(int i=0;i<oper.size();i++){
 		for(int j=0;j<oper.size();j++){              
 		  	if (resexp[i]==oper[j]){
@@ -349,7 +348,7 @@ int main(){
             sendCommand("l");
             g++;
  		}
-	}*/
+	}
 }
 
 
